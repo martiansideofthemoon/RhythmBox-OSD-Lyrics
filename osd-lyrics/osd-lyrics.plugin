@@ -1,0 +1,15 @@
+[Plugin]
+Loader=python
+Module=osd-lyrics
+IAge=2
+Depends=rb
+Name=OSD Lyrics
+Name[zh_CN]=OSD Lyrics
+Name[zh_HK]=OSD Lyrics
+Name[zh_TW]=OSD Lyrics
+Description=Start OSD Lyrics when RhythmBox started.
+Description[zh_CN]=在RhythmBox启动后运行OSD Lyrics
+Description[zh_HK]=在RhythmBox啟動後运行OSD Lyrics
+Description[zh_TW]=在RhythmBox啟動後运行OSD Lyrics
+Authors=Tony Chyi <tonychee1989@gmail.com>
+Copyright=Copyright © 2013 Tony Chyi
